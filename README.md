@@ -30,9 +30,6 @@ Me especializo en crear soluciones tecnológicas eficientes, escalables y bien d
 #### 🖥️ **Desarrollo Web**  
 **Desarrolladora** | 2023 – Actualidad  
 - Creación y mantenimiento de aplicaciones web modernas y responsivas.  
-- Proyectos destacados:  
-  - [Erc Caliente](https://ercaliente.onrender.com/)  
-  - [El Taller de Papo](https://eltallerdepapo.appwrite.network/)  
 
 #### 🖥️ **Desarrollo de Escritorio**  
 **Desarrolladora** | 2024 – Actualidad  
