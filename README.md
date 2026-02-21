@@ -41,13 +41,6 @@ Me especializo en crear soluciones tecnológicas eficientes, escalables y bien d
 
 ---
 
-### 📈 **Proyectos destacados**
-
-- **[Portafolio Personal](https://azure-dvl.github.io)** – Sitio web con mis proyectos y experiencia.   
-- **Colaboración en [BatSoft Solutions](https://github.com/batdev-of)** – Desarrollo de soluciones tecnológicas en equipo.
-
----
-
 ### 📫 **¿Trabajamos juntos?**  
 Si buscas un desarrollador comprometido, con experiencia en múltiples stacks y capacidad para adaptarse a entornos dinámicos, ¡hablemos!  
 
